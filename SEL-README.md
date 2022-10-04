@@ -5,5 +5,5 @@ Status do projeto: Em desemvolvimento
 Para rodar esse projeto na sua máquina digite:
 
 ```
-nodo app.js
+node app.js
 ```
