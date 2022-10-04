@@ -5,5 +5,5 @@ Status do projeto: Em desemvolvimento
 Para rodar esse projeto na sua máquina digite:
 
 ```
-npm install react
+nodo app.js
 ```
